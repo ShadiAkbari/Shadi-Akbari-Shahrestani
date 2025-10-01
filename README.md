@@ -15,11 +15,12 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=F7DF1E)
 ![Sage](https://img.shields.io/badge/Sage-%23ED8B00?style=plastic&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-FF4500?style=plastic&logo=wolfram&logoColor=white)
+![C](https://img.shields.io/badge/C-darkblue?style=plastic&logo=c&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-%23ffffff.svg?style=plastic&logo=wolfram&logoColor=black)
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/numpy-4B0082?style=plastic&logo=numpy&logoColor=white)
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-darkblue?style=plastic&logo=Matplotlib&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-5E2CA5?style=plastic&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-7038B4?style=plastic&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-805AD5?style=plastic&logo=PyTorch&logoColor=white)
