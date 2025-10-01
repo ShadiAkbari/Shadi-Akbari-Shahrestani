@@ -22,7 +22,10 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 ![Plotly](https://img.shields.io/badge/Plotly-7038B4?style=plastic&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-805AD5?style=plastic&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-9163E7?style=plastic&logo=scikit-learn&logoColor=white)
-![SciP]()
+![SciPy](https://img.shields.io/badge/SciPy-A37FFF?style=plastic&logo=scipy&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-F05033?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white)
 
 
 
