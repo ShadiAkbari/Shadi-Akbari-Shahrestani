@@ -1,14 +1,14 @@
 # 🌌 Hi, I'm Shadi-Akbari-Shahrestani
 
-🔭🌠 **Driven by Curiosity | Understanding the Universe Through Science** 
-I am passionate about exploring the mysteries of the cosmos — from the Cosmic Microwave Background to the formation of large-scale structures in the Universe.  
+🌠 **Driven by Curiosity | Understanding the Universe Through Science** 
+I am passionate about exploring the mysteries of the cosmos — from the early universe to the formation of large-scale structures in the Universe.  
 
 ## 👨‍🚀 About Me  
-- 🎓 Currently studying **Cosmology/ Gravitational wave **  
-- 🧠 Interested in **numerical simulations of the Universe**  
-- 🌌 Fascinated by **dark matter, dark energy, and structure formation**  
+- 🎓 Former B.SC Physics Student at **Sharif University of Technology**
+- 🧠 Interested in **Theoretical calculation and(!) numerical simulations of the Universe**  
+- 🌌 Fascinated by **Early Universe, Gravitaional Wave**  
 - 🤝 Looking to collaborate on **open-source projects in physics and cosmology**  
-- ✨ Fun fact: *The Universe is under no obligation to make sense to us!*  
+✨   
 
 
 # 💻 Tech Stack:
