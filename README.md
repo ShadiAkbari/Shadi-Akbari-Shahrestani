@@ -30,10 +30,6 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 ![GitHub](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white)
 
 
-
-## 📊 GitHub Stats  
-
-
 ## 🔗 Connect with Me  
 
 - 📧 Email: Shadi.akbari1981@gmail.com 
