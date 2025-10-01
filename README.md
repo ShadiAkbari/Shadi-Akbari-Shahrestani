@@ -8,7 +8,7 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 - 🧠 Interested in **Theoretical calculations and(!) numerical simulations of the Universe**  
 - 🌌 Fascinated by **Early Universe, Gravitaional Wave**  
 - 🤝 Looking to collaborate on **open-source projects in physics and cosmology**  
-✨   
+  
 
 
 # 💻 Tech Stack:
