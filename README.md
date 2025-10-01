@@ -19,8 +19,8 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 ![Mathematica](https://img.shields.io/badge/Mathematica-%23ffffff.svg?style=plastic&logo=wolfram&logoColor=black)
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/numpy-4B0082?style=plastic&logo=numpy&logoColor=white)
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-darkblue?style=plastic&logo=Matplotlib&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-darkblue?style=plastic&logo=numpy&logoColor=white)
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-4B0082?style=plastic&logo=Matplotlib&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-5E2CA5?style=plastic&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-7038B4?style=plastic&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-805AD5?style=plastic&logo=PyTorch&logoColor=white)
