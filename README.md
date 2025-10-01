@@ -15,7 +15,7 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 ![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=F7DF1E)
 ![Sage-Manifold](https://img.shields.io/badge/SageManifold-32CD32?style=plastic&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-FF6F61?style=plastic&logo=wolfram&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-FF4500?style=plastic&logo=wolfram&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/numpy-4B0082?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-5E2CA5?style=plastic&logo=pandas&logoColor=white)
