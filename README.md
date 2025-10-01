@@ -14,7 +14,7 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=F7DF1E)
-![Sage](https://img.shields.io/badge/Sage-32CD32?style=plastic&logoColor=white)
+![Sage](https://img.shields.io/badge/Sage-%23ED8B00?style=plastic&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-FF4500?style=plastic&logo=wolfram&logoColor=white)
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
