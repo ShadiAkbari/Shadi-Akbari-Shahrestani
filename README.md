@@ -16,11 +16,6 @@ I am passionate about exploring the mysteries of the cosmos — from the Cosmic 
 
 
 ## 📊 GitHub Stats  
-## 📌 Featured Repositories
-
-[![rcTorch](https://github-readme-stats.vercel.app/api/pin/?username=themahani&repo=rctorch&theme=transparent)](https://github.com/themahani/rctorch)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=themahani&repo=dotfiles&theme=transparent)](https://github.com/themahani/dotfiles)
-[![Project Lumina](https://github-readme-stats.vercel.app/api/pin/?username=themahani&repo=project-lumina&theme=transparent)](https://github.com/themahani/project-lumina)
 
 
 ## 🔗 Connect with Me  
