@@ -5,7 +5,7 @@
 I am passionate about exploring the mysteries of the cosmos — from the early universe to the formation of large-scale structures in the Universe.  
 
 ## 👨‍🚀 About Me  
-- 🧠 Interested in **Theoretical calculation and(!) numerical simulations of the Universe**  
+- 🧠 Interested in **Theoretical calculations and(!) numerical simulations of the Universe**  
 - 🌌 Fascinated by **Early Universe, Gravitaional Wave**  
 - 🤝 Looking to collaborate on **open-source projects in physics and cosmology**  
 ✨   
