@@ -34,4 +34,4 @@ I am passionate about exploring the mysteries of the cosmos — from the early u
 
 - 📧 Email: Shadi.akbari1981@gmail.com 
 - 🌐 Website: [shadiakbari.github.io](https://shadiakbari.github.io/)
-- 🍻 Social Media: [@ShadiAkbari](https://yourwebsite.com)
+
